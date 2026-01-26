@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开菜鸟，查看全部包裹",
+            "intent_category": "",
+            "apps": [
+                "菜鸟"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开菜鸟，领取每日签到裹酱",
+            "intent_category": "",
+            "apps": [
+                "菜鸟"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开菜鸟，查看全部包裹的第一个",
+            "intent_category": "",
+            "apps": [
+                "菜鸟"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开美团，查看历史订单",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开美团，提现视频奖励",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开时钟，设置40分钟的倒计时",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开时钟，设置明天上午九点的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开时钟，查看芝加哥的时间",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开高德地图，搜索去清华大学6教的骑行路线",
+            "intent_category": "",
+            "apps": [
+                "高德地图"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "唯品会搜索固态硬盘，并选择第一个查看详情页",
+            "intent_category": "",
+            "apps": [
+                "唯品会"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开高德地图，搜索明天8点去八达岭长城的公共交通路线",
+            "intent_category": "",
+            "apps": [
+                "高德地图"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "唯品会搜索雷电拓展坞并将销量最高的加入购物车",
+            "intent_category": "",
+            "apps": [
+                "唯品会"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开高德地图，搜索巴厘岛清华东南亚中心，查看详情",
+            "intent_category": "",
+            "apps": [
+                "高德地图"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "高德地图搜索去八达岭长城的路线",
+            "intent_category": "",
+            "apps": [
+                "高德地图"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开高德地图搜索天安门广场查看公共交通路线",
+            "intent_category": "",
+            "apps": [
+                "高德地图"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "使用哔哩哔哩APP查一下郭德纲的相声",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开哔哩哔哩关注一下渤海小吏",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "在哔哩哔哩app上搜索并观看高等数学",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开美团，我想查看附近的香辣火锅",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "在美团上查找附近的瑜伽馆，并用高德地图导航去那里。",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开美团APP，查看自行车停车点",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开小红书搜索一下曹云金，并阅读第一条。",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开小红书，搜一下榴莲，打开第一个。",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开小红书看一下嘉闵线的第一条新闻。",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开知乎APP，查看下关于上汽大众的第一条",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开知乎搜一下苏剑林，看是否更新了文章。",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开知乎APP，看下苏剑林的最近文章",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "在腾讯地图上查找附近好评最高的蛋糕店，并用高德地图导航去那里。",
+            "intent_category": "",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开腾讯地图，开汽车导航去莘庄地铁站",
+            "intent_category": "",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开腾讯地图，导航去上海汽车城地铁站",
+            "intent_category": "",
+            "apps": [
+                "腾讯地图"
+            ]
+        }
+    ]
+}

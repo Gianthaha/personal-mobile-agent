@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开deepseek，询问sin和cos相位的关系",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开deepseek，询问俄语中复数的变化规则",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开deepseek，询问von neumann取舍原则的原理",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开deepseek，询问北京地铁八号线人为什么多",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开美团，搜索烤匠并查看相关餐厅",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开美团，搜索烤匠，进入第一家店铺，查看其地址",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开美团，搜索明洞阿姨",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开美团，搜索烤匠，查看是否能够预约",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开时钟，设下每天早上9点35的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开时钟，设置每天早上七点四十五的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开时钟，设置明天早上九点三十五的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开时钟，设置明天十一点的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开美团，搜索墨西哥菜",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开美团，查看购买药物的物流情况",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打美团外卖，搜索曹氏鸭脖，发布评论",
+            "intent_category": "",
+            "apps": [
+                "美团"
+            ]
+        }
+    ]
+}

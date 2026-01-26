@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开闹钟时钟设置一个14：50的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开闹钟时钟设置一个7：10的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开闹钟时钟设置一个5：30的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开闹钟时钟设置一个8：00的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开小红书搜索“入团学习资料”并将第一条其加入收藏",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开小红书搜索调酒大全并收藏第一条文章",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "小红书-搜索三头肌如何训练",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "小红书-搜索lora相关信息",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开哔哩哔哩搜索“绵绵冰”并点赞第一条视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开哔哩哔哩搜索“安东尼”并观看第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开哔哩哔哩搜索全息波普獠犬并观看第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开哔哩哔哩搜索显卡莽侠并观看第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开哔哩哔哩搜索归零者戍卫并观看第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开哔哩哔哩搜索姆巴佩并点赞第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开哔哩哔哩搜索离子战神并观看第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        }
+    ]
+}

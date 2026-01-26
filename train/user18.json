@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开deepseek，搜索sft在多任务上微调llm的方法",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开deepseek 搜索LLM-agent是什么",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开deepseek，搜索五一假期放几天",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开deepseek，搜索dpo原理",
+            "intent_category": "",
+            "apps": [
+                "deepseek"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开知乎 搜索deepseek应用",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开知乎，查看热榜第一",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开知乎，搜索热榜第一",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开时钟，订早上9：19的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开时钟，订一个明早9.：30的闹铃",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开时钟，订一个23：20的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "",
+            "intent_category": "打开时钟 订9：19的闹钟",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "开启8:30的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开QQ邮箱，查看收件箱第一条邮件",
+            "intent_category": "",
+            "apps": [
+                "qq邮箱"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开QQ邮箱，查看第二条邮件",
+            "intent_category": "",
+            "apps": [
+                "qq邮箱"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开QQ邮箱，查看收件箱第一条邮件",
+            "intent_category": "",
+            "apps": [
+                "qq邮箱"
+            ]
+        }
+    ]
+}
