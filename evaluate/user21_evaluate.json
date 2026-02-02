@@ -1,0 +1,36 @@
+{
+    "length": 3,
+    "scenario": "testing",
+    "scenario_id": 0,
+    "tasks": [
+           {
+            "task_id": "user_21_1",
+            "instruction": "收听《爱啊》",
+            "type": "single_app",
+            "apps": "网易云音乐"
+        },
+        {
+            "task_id": "user_21_2",
+            "instruction": "播放回春丹乐队的视频",
+            "type": "single_app",
+            "apps": "哔哩哔哩"
+        },
+        {
+            "task_id": "user_21_3",
+            "instruction": "搜索商品吉他",
+            "type": "single_app",
+            "apps": "唯品会"
+        },
+        {
+            "task_id": "user_21_4",
+            "instruction": "播放歌曲《给你给我》",
+            "type": "single_app",
+            "apps": "网易云音乐"
+        },{
+           "task_id": "user_21_5",
+            "instruction": "搜索商品氧气袋",
+            "type": "single_app",
+            "apps": "唯品会"
+      }
+    ]
+}
