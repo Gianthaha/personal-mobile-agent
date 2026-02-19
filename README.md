@@ -1,3 +1,3 @@
 # personal-mobile-agent
 
-The code will be updated within a week.
+The code and data will be updated within a week.
