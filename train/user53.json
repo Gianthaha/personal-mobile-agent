@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开QQ音乐，听推荐的第一首歌",
+            "intent_category": "",
+            "apps": [
+                "QQ音乐"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开QQ音乐，听取第一首推荐歌曲",
+            "intent_category": "",
+            "apps": [
+                "QQ音乐"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开去哪儿旅行，搜索大连旅游攻略，查看第一条",
+            "intent_category": "",
+            "apps": [
+                "去哪儿旅行"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开去哪儿旅行，查看候补订单是否兑现",
+            "intent_category": "",
+            "apps": [
+                "去哪儿旅行"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开QQ浏览器，查勅字读音及释义。",
+            "intent_category": "",
+            "apps": [
+                "QQ浏览器"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开QQ浏览器，搜索diphtheria",
+            "intent_category": "",
+            "apps": [
+                "QQ浏览器"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开QQ浏览器，搜索trehalose",
+            "intent_category": "",
+            "apps": [
+                "QQ浏览器"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开QQ浏览器，搜索negative的意思",
+            "intent_category": "",
+            "apps": [
+                "QQ浏览器"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开QQ浏览器，搜索“abdominal”中文意思",
+            "intent_category": "",
+            "apps": [
+                "QQ浏览器"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开知乎，点开推荐的第一条推送",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开知乎，打开第一个推文",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开知乎，查看第一个推荐内容",
+            "intent_category": "",
+            "apps": [
+                "知乎"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开bilibili，搜索“生物信息学”，打开第一个视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开bilibili，搜索意大利语，点击第一条视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开bilibili，搜索小lin竖着说，点开外卖大战视频",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩"
+            ]
+        }
+    ]
+}

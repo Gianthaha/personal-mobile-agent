@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开番茄免费小说，将阅读历史的小说加入书架",
+            "intent_category": "阅读",
+            "apps": [
+                "番茄小说"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "番茄小说-搜索小说《百万英镑》",
+            "intent_category": "阅读",
+            "apps": [
+                "番茄小说"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "番茄小说-阅读小说《雪国》",
+            "intent_category": "阅读",
+            "apps": [
+                "番茄小说"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开酷狗音乐搜索歌手邓紫棋",
+            "intent_category": "音乐",
+            "apps": [
+                "酷狗音乐"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开酷狗音乐，播放方大同的好不容易",
+            "intent_category": "音乐",
+            "apps": [
+                "酷狗音乐"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "把酷狗音乐播放一下，汪峰飞的更高",
+            "intent_category": "音乐",
+            "apps": [
+                "酷狗音乐"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "",
+            "intent_category": "音乐",
+            "apps": [
+                "酷狗音乐"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开日历查看劳动节",
+            "intent_category": "系统应用",
+            "apps": [
+                "日历"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开日历查找母亲节",
+            "intent_category": "系统应用",
+            "apps": [
+                "日历"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开腾讯地图搜索学校",
+            "intent_category": "导航",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "打开腾讯地图导航去菜鸟驿站",
+            "intent_category": "导航",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打腾讯地图搜索深圳东站",
+            "intent_category": "导航",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开腾讯地图搜索梅林大街",
+            "intent_category": "导航",
+            "apps": [
+                "腾讯地图"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "在番茄免费小说的书架搜索“jojo”,点击第一本书",
+            "intent_category": "阅读",
+            "apps": [
+                "番茄小说"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开酷狗音乐播放晴天",
+            "intent_category": "音乐",
+            "apps": [
+                "酷狗音乐"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "length": 4,
+    "scenario": "testing",
+    "scenario_id": 0,
+    "tasks": [
+           {
+            "task_id": "user_5_1",
+            "instruction": "搜索我感兴趣的运动攻略",
+            "type": "single_app",
+             "apps": "小红书",
+             "grountruth": "用户喜欢的运动攻略：健身相关的活动"
+
+        },
+        {
+            "task_id": "user_5_2",
+            "instruction": "查看我感兴趣的数码产品的价格",
+            "type": "single_app",
+            "apps": "京东",
+            "grountruth": "用户喜欢的数码产品有：ipad，显示器，mac  "
+
+        },
+        {
+            "task_id": "user_5_3",
+            "instruction": "播放我喜欢的音乐",
+            "type": "single_app",
+             "apps": "QQ音乐",
+            "grountruth": "用户喜欢的音乐有： 我的未来，复刻回忆"
+        },
+        {
+            "task_id": "user_5_4",
+            "instruction": "查看我关注的电影及影评",
+            "type": "single_app",
+            "apps": "豆瓣",
+            "grountruth": "无限定，打开我关注的即可。 "
+        }
+      ,
+      {
+            "task_id": "user_5_4",
+            "instruction": "阅读我喜欢的书籍",
+            "type": "single_app",
+            "apps": "微信读书",
+            "grountruth": "用户喜欢的书籍有： 三体，乡土中国，"
+       }
+    ]
+}

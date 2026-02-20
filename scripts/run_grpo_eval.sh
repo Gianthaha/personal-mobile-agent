@@ -1,0 +1,16 @@
+--mode
+grpo_eval
+--tasks_json
+data/eval/user21_type_2.json
+--experience_file
+logs/google/gemini-2.5-pro/grpo_train/grpo_train_21_gemini/step_6/experiences.json
+--run_name
+eval_user_21_gemini_type_2
+--num_tasks
+5
+--max_itr
+20
+--enable_experience_retriever
+--rag_enabled
+--rag_data_dir
+./data/rag/user21_gemini

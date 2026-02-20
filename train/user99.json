@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开腾讯地图，步行导航到贵阳\n",
+            "intent_category": "",
+            "apps": [
+                "腾讯地图\n"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开腾讯地图，导航到古榕群线路，驾车\n",
+            "intent_category": "",
+            "apps": [
+                "腾讯地图\n"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开京东，搜索小米手环，打开第一个商品\n",
+            "intent_category": "",
+            "apps": [
+                "京东\n"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "打开京东，搜索夺宝岛\n",
+            "intent_category": "",
+            "apps": [
+                "京东\n"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开京东，都搜索虾米\n",
+            "intent_category": "",
+            "apps": [
+                "京东\n"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开京东点击购物车\n",
+            "intent_category": "",
+            "apps": [
+                "京东\n"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开拼多多，搜索多多买菜\n",
+            "intent_category": "",
+            "apps": [
+                "拼多多\n"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "拼多多-搜索ps5pro，查看价格区间\n",
+            "intent_category": "",
+            "apps": [
+                "拼多多\n"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开拼多多，以333到666价格为条件搜索引擎\n",
+            "intent_category": "",
+            "apps": [
+                "拼多多\n"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "打开哔哩哔哩，搜索双城之战\n",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩\n"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "哔哩哔哩搜索大侠立志转ID，图文栏目下打开第一个帖子\n",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩\n"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开哔哩哔哩搜索考公，并观看第一条视频\n",
+            "intent_category": "",
+            "apps": [
+                "哔哩哔哩\n"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开天气，查看最近三天天气\n",
+            "intent_category": "",
+            "apps": [
+                "天气\n"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "点击天气，查看近15日天气\n",
+            "intent_category": "",
+            "apps": [
+                "天气\n"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开天气，查看近几日的天气预报\n",
+            "intent_category": "",
+            "apps": [
+                "天气\n"
+            ]
+        }
+    ]
+}

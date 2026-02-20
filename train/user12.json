@@ -1,0 +1,138 @@
+{
+    "length": 15,
+    "scenario": "testing",
+    "scenario_id": 0,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开高德地图搜索北京国际饭店",
+            "type": "single_app",
+            "intent_category": "导航",
+            "apps": [
+                "高德地图"
+            ]
+        },
+        {
+            "task_id": "testing_1",
+            "instruction": "打开高德地图搜索最近方中山胡辣汤",
+            "type": "single_app",
+            "apps": [
+                  "高德地图"
+            ],
+          "intent_category": "导航"
+        },
+            {
+            "task_id": "testing_2",
+            "instruction": "打开高德地图搜索超级合生汇",
+            "type": "single_app",
+                          "intent_category": "导航",
+            "apps": [
+                "高德地图"
+            ]
+        },      {
+            "task_id": "testing_3",
+            "instruction": "打开高德地图搜索最近肯德基",
+            "type": "single_app",
+                                  "intent_category": "导航",
+
+            "apps": [
+                  "高德地图"
+            ]
+        },      {
+            "task_id": "testing_4",
+            "instruction": "打开百度搜索中美贸易战",
+            "type": "single_app",
+            "intent_category": "搜索",
+            "apps": [
+                  "百度"
+            ]
+        },      {
+            "task_id": "testing_5",
+            "instruction": "打开百度搜索中美关税战",
+            "type": "single_app",
+                                  "intent_category": "搜索",
+
+            "apps": [
+                  "百度"
+            ]
+        },      {
+            "task_id": "testing_6",
+            "instruction": "打开百度搜索人民币美元汇率",
+            "type": "single_app",
+                                          "intent_category": "搜索",
+
+            "apps": [
+                  "百度"
+            ]
+        },      {
+            "task_id": "testing_7",
+            "instruction": "打开百度搜索原神",
+            "type": "single_app",
+             "intent_category": "搜索",
+
+            "apps": [
+                  "百度"
+            ]
+        },      {
+            "task_id": "testing_8",
+            "instruction": "打开小红书搜索西直门附近餐饮",
+            "type": "single_app",
+                                          "intent_category": "帖子",
+
+            "apps": [
+                  "小红书"
+            ]
+        },      {
+            "task_id": "testing_9",
+            "instruction": "小红书搜索北京赏花攻略",
+            "type": "single_app",
+                                                  "intent_category": "帖子",
+
+            "apps": [
+                  "小红书"
+            ]
+        },      {
+            "task_id": "testing_10",
+            "instruction": "打开小红书搜索日出拍摄机位",
+            "type": "single_app",
+                                                          "intent_category": "帖子",
+
+            "apps": [
+                  "小红书"
+            ]
+        },      {
+            "task_id": "testing_11",
+            "instruction": "打开bilibili搜索丢手绢",
+            "type": "single_app",
+            "intent_category": "长视频",
+
+            "apps": [
+                  "bilibili"
+            ]
+        },      {
+            "task_id": "testing_12",
+            "instruction": "打开bilibili搜索“真的想不出名儿了”",
+            "type": "single_app",
+            "intent_category": "长视频",
+            "apps": [
+                  "bilibili"
+            ]
+        },      {
+            "task_id": "testing_13",
+            "instruction": "打开bilibili搜索丢手绢",
+             "intent_category": "长视频",
+            "type": "single_app",
+            "apps": [
+                  "bilibili"
+            ]
+        },      {
+            "task_id": "testing_14",
+            "instruction": "打开bilibili搜索卡了佛度",
+            "intent_category": "长视频",
+            "type": "single_app",
+            "apps": [
+                  "bilibili"
+            ]
+        }
+    ]
+}

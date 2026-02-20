@@ -1,0 +1,125 @@
+{
+    "length": 15,
+    "tasks": [
+        {
+            "task_id": "testing_0",
+            "instruction": "打开闹钟APP，定一个明天早上八点钟的闹钟",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_1",
+            "instruction": "打开闹钟APP，定一个明天早上8点15分的闹钟。",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_2",
+            "instruction": "打开闹钟APP，定一个明天早上八点钟的闹钟。",
+            "intent_category": "",
+            "apps": [
+                "时钟"
+            ]
+        },
+      {
+            "task_id": "testing_3",
+            "instruction": "开百度APP，查《红与黑》故事梗概",
+            "intent_category": "",
+            "apps": [
+                "百度"
+            ]
+        },
+      {
+            "task_id": "testing_4",
+            "instruction": "打开百度APP，查两个生字。",
+            "intent_category": "",
+            "apps": [
+                "百度"
+            ]
+        },
+      {
+            "task_id": "testing_5",
+            "instruction": "打开百度，查合那高速",
+            "intent_category": "",
+            "apps": [
+                "百度"
+            ]
+        },
+      {
+            "task_id": "testing_6",
+            "instruction": "打开小红书，找到莫文蔚毛不易春晚岁月里的花（视频），收藏",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_7",
+            "instruction": "打开小红书APP，选择一项锻炼器械加入购物车。",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_8",
+            "instruction": "打开小红书，查鹅泉攻略。",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_9",
+            "instruction": "",
+            "intent_category": "",
+            "apps": [
+                "天气"
+            ]
+        },
+      {
+            "task_id": "testing_10",
+            "instruction": "",
+            "intent_category": "",
+            "apps": [
+                "天气"
+            ]
+        },
+      {
+            "task_id": "testing_11",
+            "instruction": "打开墨迹天气，查看龙岗葵涌今天的天气预报。",
+            "intent_category": "",
+            "apps": [
+                "墨迹天气"
+            ]
+        },
+      {
+            "task_id": "testing_12",
+            "instruction": "打开墨迹天气，查看今天当地的天气。",
+            "intent_category": "",
+            "apps": [
+                "墨迹天气"
+            ]
+        },
+      {
+            "task_id": "testing_13",
+            "instruction": "打开小红书查三门海攻略",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        },
+      {
+            "task_id": "testing_14",
+            "instruction": "打开小红书查万峰林攻略",
+            "intent_category": "",
+            "apps": [
+                "小红书"
+            ]
+        }
+    ]
+}
